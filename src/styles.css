@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+.rods {
+  background-color: rgba(97, 0, 188, 0.97);
+  height: 3vh;
+  width: 25vw;
+  left: 50%;
+  border-radius: 10px;
+  text-align: center;
+}
+#rod1 {
+  position: absolute;
+  bottom: 0;
+}
+#rod2 {
+  position: absolute;
+  top: 0;
+}
